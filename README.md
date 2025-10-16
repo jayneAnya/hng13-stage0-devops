@@ -5,4 +5,4 @@
 **Project Description:**  
 This project sets up an NGINX web server hosting a simple custom webpage for HNG13 Stage 0 DevOps challenge.  
 
-**Server IP/Domain:** To be added after deployment
+**Server IP/Domain:** http://52.204.190.227/
